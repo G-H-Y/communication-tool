@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/chat1.png</file>
+        <file>icon/chat2.png</file>
+        <file>icon/chat3.png</file>
+        <file>icon/chat4.png</file>
+        <file>icon/find.png</file>
+        <file>icon/head1.png</file>
+        <file>icon/head2.png</file>
+        <file>icon/head3.png</file>
+        <file>icon/user.png</file>
+        <file>icon/new.png</file>
+        <file>icon/login_label.png</file>
+        <file>icon/sign_label.png</file>
+    </qresource>
+</RCC>

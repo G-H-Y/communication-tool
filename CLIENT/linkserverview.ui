@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>LINKSERVERVIEW</class>
+ <widget class="QDialog" name="LINKSERVERVIEW">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLineEdit" name="serverIp">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>59</y>
+     <width>191</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="placeholderText">
+    <string>服务器ip地址</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="serverPort">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>109</y>
+     <width>191</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="placeholderText">
+    <string>服务器端口</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="linkServer">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>160</y>
+     <width>80</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>LINK</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
